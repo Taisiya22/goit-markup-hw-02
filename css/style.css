@@ -40,6 +40,7 @@ body {
   line-height: 1.19;
   text-decoration: none;
 }
+/* index.html */
 /* site nav */
 .site-nav .link {
   color: var(--primary-text-color);
@@ -128,14 +129,12 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
-  text-align: center;
 }
 .team-description {
   color: var(--secondary-text-color);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
-  text-align: center;
 }
 /* footer */
 .footer {
