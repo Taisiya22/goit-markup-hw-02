@@ -160,12 +160,20 @@ body {
   line-height: 1.71;
   text-decoration: none;
 }
+.link-address:hover,
+.link-address:focus {
+  color: var(--accent-color);
+}
 .footer .link {
   color: var(--footer-text-color-tel-mail);
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   text-decoration: none;
+}
+.footer .link:hover,
+.footer .link:focus {
+  color: var(--accent-color);
 }
 /* portfolio */
 .portfolio-item-btn {
