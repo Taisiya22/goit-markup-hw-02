@@ -15,6 +15,7 @@ body {
   background-color: var(--primary-background-color);
   color: var(--primary-text-color);
   font-family: Roboto, sans-serif;
+  font-size: 14px;
   letter-spacing: 0.03em;
 }
 /* header */
@@ -46,7 +47,6 @@ body {
 .site-nav .link {
   color: var(--primary-text-color);
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -61,7 +61,6 @@ body {
 .contact-nav .link {
   color: var(--secondary-text-color);
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -112,8 +111,6 @@ body {
 }
 .features-description {
   color: var(--secondary-text-color);
-  font-weight: 400;
-  font-size: 14px;
   line-height: 1.71;
 }
 /* section services */
@@ -137,7 +134,6 @@ body {
 }
 .team-description {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
 }
@@ -159,8 +155,7 @@ body {
 }
 .link-address {
   color: var(--white-text-color);
-  font-weight: 400;
-  font-size: 14px;
+  font-style: normal;
   line-height: 1.71;
   text-decoration: none;
 }
@@ -170,8 +165,7 @@ body {
 }
 .footer .link {
   color: var(--footer-text-color-tel-mail);
-  font-weight: 400;
-  font-size: 14px;
+  font-style: normal;
   line-height: 1.71;
   text-decoration: none;
 }
@@ -206,7 +200,6 @@ body {
 }
 .portfolio-description {
   color: var(--secondary-text-color);
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
 }
