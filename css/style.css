@@ -94,6 +94,7 @@ body {
   align-items: center;
   text-align: center;
   letter-spacing: 0.06em;
+  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -186,6 +187,7 @@ body {
   font-size: 16px;
   line-height: 1.87;
   text-align: center;
+  cursor: pointer ;
 }
 .portfolio-item-btn:hover,
 .portfolio-item-btn:focus {
