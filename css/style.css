@@ -9,6 +9,7 @@
   --footer-hero-background-color: #2f303a;
   --team-background-color: #f5f4fa;
   --team-list-background-color:#ffffff;
+  --hover-hero-button: #188CE8;
 }
 
 body {
@@ -97,9 +98,11 @@ body {
 }
 .hero-btn:hover,
 .hero-btn:focus {
+  background-color:var(--hover-hero-button) ;
   color: var(--white-text-color);
 }
 .hero-btn:active {
+  background-color:var(--hover-hero-button) ;
   color: var(--white-text-color);
 }
 /* section features */
