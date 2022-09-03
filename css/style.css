@@ -14,7 +14,7 @@
 body {
   background-color: var(--primary-background-color);
   color: var(--primary-text-color);
-  font-family: Roboto, sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 14px;
   letter-spacing: 0.03em;
 }
@@ -24,7 +24,7 @@ body {
 }
 .logo {
   color: var(--black-text-color);
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -36,7 +36,7 @@ body {
 }
 .logo-web {
   color: var(--accent-color);
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -106,7 +106,6 @@ body {
 .features-title {
   font-size: 14px;
   line-height: 1.14;
-  text-transform: uppercase;
 }
 .features-description {
   color: var(--secondary-text-color);
